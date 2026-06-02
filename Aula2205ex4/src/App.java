@@ -19,5 +19,7 @@ public class App {
         mc.recarregar(20 );
 
         mc.fazerCafe();
+
+        
     }
 }
